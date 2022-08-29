@@ -3,7 +3,7 @@
 
 #pragma once
 
-#define MANUFACTURER flooof
+#define MANUFACTURER Alex Nguyen
 #define PRODUCT flooofkeys
 
 #define MATRIX_ROWS 2

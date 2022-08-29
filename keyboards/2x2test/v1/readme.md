@@ -10,7 +10,8 @@
 
 Make example for this keyboard (after setting up your build environment):
 
-    make 2x2test:/v1default
+    make 2x2test/v1:default
+    qmk compile -km default
 
 Flashing example for this keyboard:
 
